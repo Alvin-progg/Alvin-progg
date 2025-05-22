@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Web appplications
 - 🌱 I’m currently learning nextJS
 - 💞️ I’m looking to collaborate on A Web Project
-- 📫 How to reach me Add me on Facebook Alvin Aloya
+- 📫 How to reach me Add me on Facebook Alvin
 - 😄 Pronouns: Male
 - ⚡ Fun fact: This a New acc , cant recover old 
 
