@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! I’m Alvin Aloya, a web developer passionate about building clean and functional websites. I’m currently learning TypeScript and Java to expand my skills. I enjoy collaborating with startups and working on projects that make an impact. While I focus on development, I’m also looking for help in improving front-end design to make my projects more engaging and user-friendly.
+
 
 
 ## 🌐 Socials:
